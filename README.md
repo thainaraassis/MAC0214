@@ -13,4 +13,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 1 (01/09 - 07/09) - 4h (4 exercícios de soma acumulada + two pointers)
 * semana 2 (08/09 - 15/09) - 4h (exercícios sobre teoria dos números)
                            - 2h (exercícios para revisão dos assuntos)
-* semana 3 (16/09 - 22/09) -
+* semana 3 (16/09 - 22/09) - 4h (teoria sobre DP + exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]

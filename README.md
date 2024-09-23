@@ -14,3 +14,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 2 (08/09 - 15/09) - 4h (exercícios sobre teoria dos números)
                            - 2h (exercícios para revisão dos assuntos)
 * semana 3 (16/09 - 22/09) - 4h (teoria sobre DP + exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]
+                           - 2h (exercícios de DP)

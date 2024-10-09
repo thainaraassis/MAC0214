@@ -15,7 +15,8 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
                            - 2h (exercícios para revisão dos assuntos)
 * semana 3 (16/09 - 22/09) - 4h (teoria sobre DP + exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]
                            - 2h (exercícios de DP)
-* semana 4 (23/09 - 29/09) - 2h (exercícios de DP)
+* semana 4 (23/09 - 29/09) - 2h (exercícios de DP) (fiquei doente)
 * *setembro*: 18h
 
-* semana 1 (30/09 - 06/10) - 
+* semana 1 (30/09 - 06/10) 
+* semana 2 (07/10 - 13/10) - 2h (exercícios do hackerank)

@@ -21,3 +21,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 1 (30/09 - 06/10) 
 * semana 2 (07/10 - 13/10) - 2h (exercícios do hackerank)
                            - 4h (exercícios do hackerank)
+                           - 2h (exercícios do hackerank)

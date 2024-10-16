@@ -22,3 +22,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 2 (07/10 - 13/10) - 2h + 4h (exercícios do hackerank)
                            - 4h + 2h + 1h (exercícios do hackerank)
 * semana 3 (14/10 - 20/10) - 4h (exercícios DP) assunto que mais tenho dificuldade e estou errando nos contests
+                           - 6h (contest de DP + exercícios de DP)

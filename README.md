@@ -25,4 +25,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
                            - 6h (contest de DP + exercícios de DP) vjudge cris
                            - 4h (exercícios de DP) lista cris
                            - 4h (exercícios de gulosos) lista cris
-* semana 4 (21/10 - 27/10)
+* semana 4 (21/10 - 27/10) - 10h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos

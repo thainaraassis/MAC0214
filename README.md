@@ -26,3 +26,10 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
                            - 4h (exercícios de DP) lista cris
                            - 4h (exercícios de gulosos) lista cris
 * semana 4 (21/10 - 27/10) - 10h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos
+*  *outubro*: 41h
+
+* semana 1 (28/10 - 03/11) -
+* semana 2 (04/11 - 10/11) -
+* semana 3 (11/11 - 17/11) - 6h (contest gulosos)
+* semana 4 (18/11 - 24/11) -
+* semana 5 (25/11 - 01/12) -

@@ -2,7 +2,7 @@
 
 Repositório para a disciplina **MAC0214 - Atividade Curricular em Cultura e Extensão**, que servirá de registro das atividades feitas referentes aos estudos de maratona de programação durante o semestre 2024.2.
 
-**HORAS TOTAIS: 108H30**
+**HORAS TOTAIS: 109H30**
 ---
 
 ## **Agosto: 24h**
@@ -21,11 +21,11 @@ Repositório para a disciplina **MAC0214 - Atividade Curricular em Cultura e Ext
 
 ---
 
-## **Setembro: 20h**
+## **Setembro: 21h**
 
 - **Semana 1 (01/09 - 07/09)**
   - 2h Soma Acumulada (exercícios)
-  - 4h Two Pointers (1h teoria + 3h exercícios)
+  - 5h Two Pointers (1h teoria + 4h exercícios)
 
 - **Semana 2 (08/09 - 15/09)**
   - 6h Teoria dos Números (exercícios)

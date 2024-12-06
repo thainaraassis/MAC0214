@@ -1,35 +1,79 @@
-# MAC0214
-repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Extensão, o qual servirá de registro das atividades feitas referente aos estudos de maratona de programação nesse semestre 2024.2
+# MAC0214 - Atividade Curricular em Cultura e Extensão
 
-* semana 1 (05/08 - 11/08) - Two Pointers (1h teoria + 1h exercícios)
-                           - 7h seletiva usp 
-* semana 2 (12/08 - 18/08) - 3h Gulosos
-* 18/08 - 5h upsolving da seletiva usp em time
-* 25/08 - 5h contest em time (Subregional 2019)
-* 31/08 - 7h Subregional 2024
+Repositório para a disciplina **MAC0214 - Atividade Curricular em Cultura e Extensão**, que servirá de registro das atividades feitas referentes aos estudos de maratona de programação durante o semestre 2024.2.
 
-* *agosto*: 29h
-  
-* semana 1 (01/09 - 07/09) - 4h (4 exercícios de soma acumulada + two pointers)
-* semana 2 (08/09 - 15/09) - 4h (exercícios sobre teoria dos números)
-                           - 2h (exercícios para revisão dos assuntos)
-* semana 3 (16/09 - 22/09) - 6h (2h teoria sobre DP + 4h exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]
-* semana 4 (23/09 - 29/09) - 2h (exercícios de DP) (fiquei doente)
-* *setembro*: 18h
+**HORAS TOTAIS: 108H30**
+---
 
-* semana 1 (30/09 - 06/10) 
-* semana 2 (07/10 - 13/10) - 2h + 4h (exercícios do hackerank)
-                           - 4h + 2h + 1h (exercícios do hackerank)
-* semana 3 (14/10 - 20/10) (break) - 4h (exercícios DP) assunto que mais tenho dificuldade e estou errando nos contests - lista cris
-                           - 6h (contest de DP) vjudge cris
-                           - Codeforces Round 952 (Div. 4) - 2h30
-* semana 4 (21/10 - 27/10) - 08h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos (2h por dia)
-*  *outubro*: 33h30
+## **Agosto: 29h**
 
-* semana 1 (28/10 - 03/11) - Codeforces Round 964 (Div. 4) - 2h30
-                           - Codeforces Round 971 (Div. 4) - 2h30
-* semana 2 (04/11 - 10/11) - 6h (contest gulosos)
-* semana 3 (11/11 - 17/11) - 2h (teoria ufmg) + 4h (exercícios) => dijkstra + 1h (teoria Floyd-Warshall)
-* semana 4 (18/11 - 24/11) - 1h (teoria ufmg) + 4h (exercícios) => dfs
-* semana 5 (25/11 - 01/12) - 1h (teoria ufmg) + 4h (exercícios) => bfs
-*   *novembro*: 28h
+- **Semana 1 (05/08 - 11/08)**
+  - 2h Two Pointers (1h teoria + 1h exercícios)
+  - 7h Seletiva USP (2h warmup + 5h contest)
+
+- **Semana 2 (12/08 - 18/08)**
+  - 3h Gulosos (1h teoria + 2h exercícios)
+  - 5h Upsolving da Seletiva USP em time
+
+- **Semana 3 (19/08 - 25/08)**
+  - 5h Contest em time (Subregional 2019)
+
+- **Semana 4 (26/08 - 31/08)**
+  - 7h Subregional 2024 (2h warmup + 5h contest)
+
+---
+
+## **Setembro: 18h**
+
+- **Semana 1 (01/09 - 07/09)**
+  - 4h Soma Acumulada + Two Pointers (exercícios)
+
+- **Semana 2 (08/09 - 15/09)**
+  - 4h Teoria dos Números (exercícios)
+  - 2h Revisão de tópicos passados por exercícios
+
+- **Semana 3 (16/09 - 22/09)**
+  - 6h DP (2h teoria + 4h exercícios)
+    
+- **Semana 4 (23/09 - 29/09)**
+  - 2h DP (exercícios) _(fiquei doente)_
+
+---
+
+## **Outubro: 33h30**
+
+- **Semana 1 (30/09 - 06/10)**
+  - 6h (exercícios do HackerRank)
+    
+- **Semana 2 (07/10 - 13/10)**
+  - 7h (exercícios do HackerRank)
+  - 2h30 Codeforces Round 952 (Div. 4)
+
+- **Semana 3 (14/10 - 20/10)** (break)
+  - 4h DP (peguei alguns exercícios e resolvi suas recorrências)
+  - 6h Contest sobre DP 
+
+- **Semana 4 (21/10 - 27/10)**
+  - 8h Escola de Primavera da Maratona SBC de Programação (Teoria sobre Árvores e DP)
+
+---
+
+## **Novembro: 28h**
+
+- **Semana 1 (28/10 - 03/11)**
+  - 2h30 Codeforces Round 964 (Div. 4) 
+  - 2h30 Codeforces Round 971 (Div. 4) 
+
+- **Semana 2 (04/11 - 10/11)**
+  - 6h Contest Gulosos
+
+- **Semana 3 (11/11 - 17/11)**
+  - 6h Dijkstra (2h teoria + 4h exercícios) 
+  - 1h Floyd-Warshall (teoria)
+
+- **Semana 4 (18/11 - 24/11)**
+  - 5h DFS (1h teoria + 4h exercícios) 
+
+- **Semana 5 (25/11 - 01/12)**
+  - 5h BFS (1h teoria + 4h exercícios) 
+

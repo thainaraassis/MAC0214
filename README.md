@@ -41,10 +41,12 @@ Repositório para a disciplina **MAC0214 - Atividade Curricular em Cultura e Ext
 ## **Outubro: 33h30**
 
 - **Semana 1 (30/09 - 06/10)**
-  - 6h (exercícios do HackerRank (exercícios sortidos, como se fosse em uma competição))
+  - 6h (exercícios do HackerRank)
+  - Esses exercícios foram resolvidos de forma similar a uma competição, porém sem limite de tempo estipulado.
     
 - **Semana 2 (07/10 - 13/10)**
-  - 7h (exercícios do HackerRank (exercícios sortidos, como se fosse em uma competição))
+  - 7h (exercícios do HackerRank)
+  - Esses exercícios foram resolvidos de forma similar a uma competição, porém sem limite de tempo estipulado.
   - 2h30 Codeforces Round 952 (Div. 4)
 
 - **Semana 3 (14/10 - 20/10)** (break)

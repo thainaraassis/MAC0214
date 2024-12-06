@@ -24,12 +24,11 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 3 (14/10 - 20/10) (break) - 4h (exercícios DP) assunto que mais tenho dificuldade e estou errando nos contests - lista cris
                            - 6h (contest de DP + exercícios de DP) vjudge cris
                            - 4h (exercícios de DP) lista cris
-                           - 4h (exercícios de gulosos) lista cris
-* semana 4 (21/10 - 27/10) - 10h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos
+* semana 4 (21/10 - 27/10) - 08h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos (2h por dia)
 *  *outubro*: 41h
 
 * semana 1 (28/10 - 03/11) -
 * semana 2 (04/11 - 10/11) -
 * semana 3 (11/11 - 17/11) - 6h (contest gulosos)
 * semana 4 (18/11 - 24/11) - 2h (teoria ufmg) + 4h (exercícios) => dijkstra + 1h (teoria Floyd-Warshall)
-* semana 5 (25/11 - 01/12) -
+* semana 5 (25/11 - 01/12) - 2h (teoria ufmg) + 4h (exercícios) => dfs e bfs

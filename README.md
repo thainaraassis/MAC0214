@@ -25,7 +25,7 @@ Repositório para a disciplina **MAC0214 - Atividade Curricular em Cultura e Ext
 
 - **Semana 1 (01/09 - 07/09)**
   - 2h Soma Acumulada (exercícios)
-  - 4h (1h teoria + 3h exercícios)
+  - 4h Two Pointers (1h teoria + 3h exercícios)
 
 - **Semana 2 (08/09 - 15/09)**
   - 6h Teoria dos Números (exercícios)

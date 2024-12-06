@@ -24,7 +24,7 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
                            - 6h (contest de DP) vjudge cris
                            - Codeforces Round 952 (Div. 4) - 2h30
 * semana 4 (21/10 - 27/10) - 08h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos (2h por dia)
-*  *outubro*: 25h30
+*  *outubro*: 33h30
 
 * semana 1 (28/10 - 03/11) - Codeforces Round 964 (Div. 4) - 2h30
                            - Codeforces Round 971 (Div. 4) - 2h30
@@ -32,4 +32,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 3 (11/11 - 17/11) - 2h (teoria ufmg) + 4h (exercícios) => dijkstra + 1h (teoria Floyd-Warshall)
 * semana 4 (18/11 - 24/11) - 1h (teoria ufmg) + 4h (exercícios) => dfs
 * semana 5 (25/11 - 01/12) - 1h (teoria ufmg) + 4h (exercícios) => bfs
-*   *novembro*: 27h
+*   *novembro*: 28h

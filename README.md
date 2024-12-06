@@ -13,8 +13,7 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 1 (01/09 - 07/09) - 4h (4 exercícios de soma acumulada + two pointers)
 * semana 2 (08/09 - 15/09) - 4h (exercícios sobre teoria dos números)
                            - 2h (exercícios para revisão dos assuntos)
-* semana 3 (16/09 - 22/09) - 4h (teoria sobre DP + exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]
-                           - 2h (exercícios de DP)
+* semana 3 (16/09 - 22/09) - 6h (2h teoria sobre DP + 4h exercícios) [https://www.youtube.com/watch?v=IGBXQVZblxg] [https://www.youtube.com/watch?v=KmOIGwEqFWQ]
 * semana 4 (23/09 - 29/09) - 2h (exercícios de DP) (fiquei doente)
 * *setembro*: 18h
 
@@ -22,10 +21,10 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 2 (07/10 - 13/10) - 2h + 4h (exercícios do hackerank)
                            - 4h + 2h + 1h (exercícios do hackerank)
 * semana 3 (14/10 - 20/10) (break) - 4h (exercícios DP) assunto que mais tenho dificuldade e estou errando nos contests - lista cris
-                           - 6h (contest de DP + exercícios de DP) vjudge cris
-                           - 4h (exercícios de DP) lista cris
+                           - 6h (contest de DP) vjudge cris
+                           - Codeforces Round 952 (Div. 4) - 2h30
 * semana 4 (21/10 - 27/10) - 08h Escola de Primavera da Maratona SBC de programação -> algoritmos em grafos (2h por dia)
-*  *outubro*: 41h
+*  *outubro*: 25h30
 
 * semana 1 (28/10 - 03/11) - Codeforces Round 964 (Div. 4) - 2h30
                            - Codeforces Round 971 (Div. 4) - 2h30
@@ -33,3 +32,4 @@ repositório para a disciplina MAC0214 - Atividade Curricular em Cultura e Exten
 * semana 3 (11/11 - 17/11) - 2h (teoria ufmg) + 4h (exercícios) => dijkstra + 1h (teoria Floyd-Warshall)
 * semana 4 (18/11 - 24/11) - 1h (teoria ufmg) + 4h (exercícios) => dfs
 * semana 5 (25/11 - 01/12) - 1h (teoria ufmg) + 4h (exercícios) => bfs
+*   *novembro*: 27h
